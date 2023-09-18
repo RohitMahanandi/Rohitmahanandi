@@ -1,5 +1,7 @@
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/42/83/38/1000_F_242833857_rsLAXVpWoSsKMOt9n5BCb4IRdNRupQ8X.jpg)
 <h1 align="center">Hi 👋, I'm Rohit Mahanandi</h1>
 <h3 align="center">A Enthusiastic Data Scientist</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*sMEB_7LvN-TNTTJt.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitmahanandi&label=Profile%20views&color=0e75b6&style=flat" alt="rohitmahanandi" /> </p>
 
