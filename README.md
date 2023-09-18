@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rohitmahanandi03@gmail.com**
 
-- ⚡ Fun fact **Once i Spent a Entire Night for a file only to realize that I used "==" instead of "="**
+- ⚡ Fun fact **Once i Spent a Entire Night on a C++ code only to realize that I used "==" instead of "="**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
