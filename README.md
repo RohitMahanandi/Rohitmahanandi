@@ -32,6 +32,6 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitmahanandi&show_icons=true&locale=en&layout=compact" alt="rohitmahanandi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rohitmahanandi&show_icons=true&locale=en" alt="rohitmahanandi" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitmahanandi" alt="rohitmahanandi" /></a> </p>
+
 
 
