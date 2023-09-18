@@ -31,7 +31,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmahanandi&" alt="rohitmahanandi" /></p>
 
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
 
