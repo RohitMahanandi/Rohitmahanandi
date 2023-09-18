@@ -28,9 +28,10 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitmahanandi&show_icons=true&locale=en&layout=compact" alt="rohitmahanandi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rohitmahanandi&show_icons=true&locale=en" alt="rohitmahanandi" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmahanandi&" alt="rohitmahanandi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitmahanandi&show_icons=true&locale=en" alt="rohitmahanandi" /></p>
+
 
 
 
